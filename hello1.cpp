@@ -7,5 +7,8 @@ int main()
     cout<<"hello linux"<<endl;
     cout<<"hello china"<<endl;
     cout<<"hello ningxia"<<endl;
+
+    cout<<"111111111111111"<<endl;
+    cout<<"222222222222222"<<endl;
     return 0;
 }
