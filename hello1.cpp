@@ -3,15 +3,16 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello world"<<endl;
+    cout<<"fdafdafaf"<<endl;
+    cout<<"132"<<endl;
     cout<<"hello linux"<<endl;
     cout<<"hello china"<<endl;
     cout<<"hello ningxia"<<endl;
 
     cout<<"111111111111111"<<endl;
     cout<<"222222222222222"<<endl;
+    cout<<"444444444444444"<<endl;
     cout<<"333333333333333"<<endl;
 
-    cout<<"syjl"<<endl;
     return 0;
 }
