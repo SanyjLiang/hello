@@ -11,5 +11,7 @@ int main()
     cout<<"111111111111111"<<endl;
     cout<<"222222222222222"<<endl;
     cout<<"333333333333333"<<endl;
+
+    cout<<"syjl"<<endl;
     return 0;
 }
