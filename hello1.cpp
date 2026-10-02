@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"fdafdafaf"<<endl;
+    cout<<"来自syjl的修改"<<endl;
     cout<<"132"<<endl;
     cout<<"hello linux"<<endl;
     cout<<"hello china"<<endl;
